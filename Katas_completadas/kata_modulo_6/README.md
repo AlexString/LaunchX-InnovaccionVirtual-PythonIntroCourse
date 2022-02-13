@@ -11,8 +11,8 @@ Para el curso de:
 
 1. listando planetas y listando más cercanos
 
-<img title="planetas y listando más cercanos" alt="Primer codigo" src="./00_planets_list.png" />
+<img title="planetas y listando más cercanos" alt="Primer codigo" src="./resources/00_planets_list.png" />
 
 2. listando planetas más lejanos
 
-<img title="planetas más lejanos" alt="Segundo codigo" src="./01_planets_further.png" />
+<img title="planetas más lejanos" alt="Segundo codigo" src="./resources/01_planets_further.png" />
