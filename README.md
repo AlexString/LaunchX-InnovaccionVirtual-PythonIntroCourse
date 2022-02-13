@@ -7,3 +7,8 @@ Redes:
 * GitHub: [FernandaOchoa](https://github.com/FernandaOchoa)
 * Twitter: [@imonsh](https://twitter.com/imonsh)
 * Instagram: [fherz8a](https://www.instagram.com/fherz8a/)
+
+# Datos cursante:
+
+* [AlexString](https://github.com/AlexString)
+* Estudiante de Universidad de Guadalajara
