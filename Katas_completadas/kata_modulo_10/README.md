@@ -19,7 +19,7 @@ Para el curso de:
 
 3. Ejecución de config.py 
 
-*A pesar de que la exception **'IsADirectoryError'** está especificada mi command line prompt no logra entrar a esa excepción y siempre cae en la excepción de **FileNotFoundError**, esto quizás se deba a mi sistema operativo*
+*A pesar de que la exception **'IsADirectoryError'** está especificada mi command line prompt no logra entrar a esa excepción y siempre cae en la excepción de **FileNotFoundError**, esto quizás se deba a mi sistema operativo en relación a cómo Linux interpreta los directorios.*
 
 Datos de mi sistema:
 - Fedora Linux XFCE 64 bits
