@@ -10,5 +10,8 @@ Redes:
 
 # Datos cursante:
 
+* Ricardo Alexis Lopez Cadena
 * [AlexString](https://github.com/AlexString)
 * Estudiante de Universidad de Guadalajara
+
+* Fecha de entrega: 14/02/2022
